@@ -1,0 +1,3 @@
+[submodule "referto/express-openapi-validator"]
+	path = referto/express-openapi-validator
+	url = https://github.com/cdimascio/express-openapi-validator
