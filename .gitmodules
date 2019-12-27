@@ -1,3 +1,6 @@
 [submodule "referto/express-openapi-validator"]
 	path = referto/express-openapi-validator
 	url = https://github.com/cdimascio/express-openapi-validator
+[submodule "referto/json-server"]
+	path = referto/json-server
+	url = https://github.com/typicode/json-server.git
