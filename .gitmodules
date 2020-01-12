@@ -4,3 +4,12 @@
 [submodule "referto/json-server"]
 	path = referto/json-server
 	url = https://github.com/typicode/json-server.git
+[submodule "referto/swagger-codegen"]
+	path = referto/swagger-codegen
+	url = https://github.com/swagger-api/swagger-codegen.git
+[submodule "referto/typeorm"]
+	path = referto/typeorm
+	url = https://github.com/typeorm/typeorm.git
+[submodule "referto/typeorm-ionic-example"]
+	path = referto/typeorm-ionic-example
+	url = https://github.com/typeorm/ionic-example.git
